@@ -5,7 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Rr.Solutions.Grm.Data\Rr.Solutions.Grm.Data.csproj" />
     <ProjectReference Include="..\Rr.Solutions.Grm.Entities\Rr.Solutions.Grm.Entities.csproj" />
   </ItemGroup>
 
