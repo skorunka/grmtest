@@ -46,7 +46,6 @@ dlldata.c
 project.lock.json
 project.fragment.lock.json
 artifacts/
-**/Properties/launchSettings.json
 
 *_i.c
 *_p.c
@@ -286,3 +285,14 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/ext/eyc.control.gantt-chart
+/ext/eyc.control.gantt-chart
+/ext/eyc.control.gantt-chart
+/desktop.ini
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/src/assets/js/jsdrag-drop.js
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/.vscode
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/Properties/launchSettings.json
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/Properties/https-selfsigned.key
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/Properties/https-selfsigned.crt
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/Program.cs
+/src/Eyc.Solutions.Anticipate.Planning.Web.Client/Eyc.Solutions.Anticipate.Planning.Web.Client.csproj
