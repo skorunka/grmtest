@@ -5,7 +5,7 @@
 	[Flags]
 	public enum MusicUsage
 	{
-		DigitalDownload,
-		Streaming
+		DigitalDownload = 1 << 0,
+		Streaming = 1 << 1
 	}
 }

@@ -18,7 +18,7 @@
 				throw new ArgumentNullException(nameof(dataSource));
 			}
 
-			this._lazyIntities = new Lazy<IQueryable<T>>(dataSource.GetEntities().AsQueryable);
+			this._lazyIntities = new Lazy<IQueryable<T>>(() => dataSource.GetEntities().AsQueryable());
 		}
 
 		#endregion

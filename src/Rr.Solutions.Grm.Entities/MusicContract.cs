@@ -12,6 +12,6 @@
 
 		public DateTime ContractStartDate { get; set; }
 
-		public DateTime ContractEndDate { get; set; }
+		public DateTime? ContractEndDate { get; set; }
 	}
 }
